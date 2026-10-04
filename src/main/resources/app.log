@@ -1,0 +1,500 @@
+[2026-10-02 08:00:04] INFO Configuration reloaded
+[2026-10-02 08:00:13] INFO Payment processed for order #3286
+[2026-10-02 08:00:17] ERROR NullPointerException in OrderService
+[2026-10-02 08:00:36] WARN Slow query detected: 622ms
+[2026-10-02 08:00:39] INFO Payment processed for order #9279
+[2026-10-02 08:00:59] INFO File uploaded: report_204.pdf
+[2026-10-02 08:01:17] WARN High memory usage: 89%
+[2026-10-02 08:01:36] INFO User logged in
+[2026-10-02 08:01:42] WARN Retrying connection attempt 3
+[2026-10-02 08:01:47] INFO Scheduled job started
+[2026-10-02 08:01:51] INFO Scheduled job finished in 149ms
+[2026-10-02 08:02:03] INFO Email sent to user136@example.com
+[2026-10-02 08:02:05] WARN Cache miss rate above threshold: 43%
+[2026-10-02 08:02:18] INFO File uploaded: report_301.pdf
+[2026-10-02 08:02:38] INFO Email sent to user99@example.com
+[2026-10-02 08:02:41] INFO Session started for user117
+[2026-10-02 08:02:51] INFO Payment processed for order #2654
+[2026-10-02 08:03:04] INFO New user registered: user326
+[2026-10-02 08:03:16] INFO Scheduled job started
+[2026-10-02 08:03:28] INFO Session started for user137
+[2026-10-02 08:03:31] ERROR Timeout while calling payment gateway
+[2026-10-02 08:03:49] INFO Order #8573 created successfully
+[2026-10-02 08:04:02] INFO Session started for user353
+[2026-10-02 08:04:20] INFO Session started for user167
+[2026-10-02 08:04:22] INFO User logged in
+[2026-10-02 08:04:33] WARN Retrying connection attempt 1
+[2026-10-02 08:04:40] ERROR Failed to write to log file
+[2026-10-02 08:04:47] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:05:02] INFO Cache refreshed
+[2026-10-02 08:05:07] INFO Configuration reloaded
+[2026-10-02 08:05:25] ERROR OutOfMemoryError in worker thread
+[2026-10-02 08:05:44] WARN Cache miss rate above threshold: 52%
+[2026-10-02 08:05:56] INFO Order #9348 created successfully
+[2026-10-02 08:06:12] INFO User logged in
+[2026-10-02 08:06:16] INFO Session started for user82
+[2026-10-02 08:06:30] ERROR NullPointerException in OrderService
+[2026-10-02 08:06:43] WARN Cache miss rate above threshold: 54%
+[2026-10-02 08:07:00] INFO File uploaded: report_882.pdf
+[2026-10-02 08:07:01] INFO Session started for user454
+[2026-10-02 08:07:19] INFO Session started for user175
+[2026-10-02 08:07:23] INFO Scheduled job finished in 211ms
+[2026-10-02 08:07:38] INFO Configuration reloaded
+[2026-10-02 08:07:47] WARN Disk usage at 85%
+[2026-10-02 08:08:04] INFO Session started for user153
+[2026-10-02 08:08:21] ERROR Failed to send email to user79@example.com
+[2026-10-02 08:08:33] INFO File uploaded: report_977.pdf
+[2026-10-02 08:08:50] INFO Email sent to user166@example.com
+[2026-10-02 08:09:06] INFO User logged out
+[2026-10-02 08:09:18] INFO Payment processed for order #1949
+[2026-10-02 08:09:26] ERROR NullPointerException in OrderService
+[2026-10-02 08:09:29] WARN Disk usage at 82%
+[2026-10-02 08:09:47] INFO Order #8787 created successfully
+[2026-10-02 08:10:05] INFO Cache refreshed
+[2026-10-02 08:10:22] ERROR Authentication failed for user494
+[2026-10-02 08:10:29] ERROR Failed to send email to user366@example.com
+[2026-10-02 08:10:39] WARN Request queue size growing: 216
+[2026-10-02 08:10:51] WARN Cache miss rate above threshold: 54%
+[2026-10-02 08:10:55] INFO Payment processed for order #2049
+[2026-10-02 08:11:06] INFO Email sent to user284@example.com
+[2026-10-02 08:11:14] ERROR Failed to send email to user4@example.com
+[2026-10-02 08:11:17] INFO Payment processed for order #2104
+[2026-10-02 08:11:19] INFO User logged out
+[2026-10-02 08:11:36] INFO Cache refreshed
+[2026-10-02 08:11:52] INFO File uploaded: report_136.pdf
+[2026-10-02 08:12:11] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:12:19] WARN Disk usage at 93%
+[2026-10-02 08:12:26] INFO User logged out
+[2026-10-02 08:12:40] INFO Scheduled job finished in 470ms
+[2026-10-02 08:12:55] INFO Session started for user335
+[2026-10-02 08:12:59] INFO Scheduled job finished in 795ms
+[2026-10-02 08:13:10] INFO Payment processed for order #4139
+[2026-10-02 08:13:17] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:13:22] WARN High memory usage: 83%
+[2026-10-02 08:13:37] INFO User logged out
+[2026-10-02 08:13:52] ERROR NullPointerException in OrderService
+[2026-10-02 08:13:54] ERROR Failed to connect to database
+[2026-10-02 08:13:57] INFO Order #7658 created successfully
+[2026-10-02 08:14:13] WARN High memory usage: 87%
+[2026-10-02 08:14:15] INFO Scheduled job finished in 52ms
+[2026-10-02 08:14:28] INFO New user registered: user147
+[2026-10-02 08:14:42] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:14:47] INFO Cache refreshed
+[2026-10-02 08:14:54] INFO Email sent to user377@example.com
+[2026-10-02 08:15:12] INFO Configuration reloaded
+[2026-10-02 08:15:23] INFO User logged in
+[2026-10-02 08:15:42] WARN Cache miss rate above threshold: 69%
+[2026-10-02 08:15:59] INFO User logged in
+[2026-10-02 08:16:16] INFO Order #2122 created successfully
+[2026-10-02 08:16:36] INFO Session started for user442
+[2026-10-02 08:16:44] WARN Slow query detected: 2833ms
+[2026-10-02 08:16:52] ERROR Failed to connect to database
+[2026-10-02 08:17:12] INFO Scheduled job finished in 723ms
+[2026-10-02 08:17:31] ERROR Failed to write to log file
+[2026-10-02 08:17:40] INFO Session started for user367
+[2026-10-02 08:17:51] INFO Cache refreshed
+[2026-10-02 08:18:04] INFO Session started for user331
+[2026-10-02 08:18:14] WARN Retrying connection attempt 1
+[2026-10-02 08:18:15] WARN Cache miss rate above threshold: 58%
+[2026-10-02 08:18:19] INFO File uploaded: report_219.pdf
+[2026-10-02 08:18:36] INFO Order #6718 created successfully
+[2026-10-02 08:18:39] INFO Scheduled job started
+[2026-10-02 08:18:49] INFO New user registered: user427
+[2026-10-02 08:19:07] INFO Email sent to user414@example.com
+[2026-10-02 08:19:24] INFO Session started for user419
+[2026-10-02 08:19:42] INFO Session started for user54
+[2026-10-02 08:19:47] INFO User logged out
+[2026-10-02 08:19:51] ERROR Timeout while calling payment gateway
+[2026-10-02 08:20:00] INFO Email sent to user108@example.com
+[2026-10-02 08:20:11] INFO Session started for user325
+[2026-10-02 08:20:20] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:20:29] INFO User logged out
+[2026-10-02 08:20:43] INFO User logged in
+[2026-10-02 08:20:44] INFO Order #5291 created successfully
+[2026-10-02 08:20:50] WARN Cache miss rate above threshold: 62%
+[2026-10-02 08:21:04] ERROR Failed to connect to database
+[2026-10-02 08:21:08] INFO Configuration reloaded
+[2026-10-02 08:21:13] ERROR Failed to connect to database
+[2026-10-02 08:21:25] ERROR Timeout while calling payment gateway
+[2026-10-02 08:21:39] INFO User logged in
+[2026-10-02 08:21:49] INFO User logged in
+[2026-10-02 08:22:01] INFO Session started for user128
+[2026-10-02 08:22:05] INFO File uploaded: report_906.pdf
+[2026-10-02 08:22:19] ERROR Timeout while calling payment gateway
+[2026-10-02 08:22:27] INFO Order #7755 created successfully
+[2026-10-02 08:22:28] INFO Configuration reloaded
+[2026-10-02 08:22:39] WARN Disk usage at 87%
+[2026-10-02 08:22:48] INFO Configuration reloaded
+[2026-10-02 08:22:52] WARN Disk usage at 81%
+[2026-10-02 08:23:08] INFO Payment processed for order #8541
+[2026-10-02 08:23:20] INFO Payment processed for order #4652
+[2026-10-02 08:23:21] INFO Scheduled job finished in 386ms
+[2026-10-02 08:23:30] INFO Cache refreshed
+[2026-10-02 08:23:42] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:24:00] INFO User logged in
+[2026-10-02 08:24:04] INFO Order #5349 created successfully
+[2026-10-02 08:24:06] INFO Email sent to user223@example.com
+[2026-10-02 08:24:18] INFO Scheduled job finished in 670ms
+[2026-10-02 08:24:35] INFO Scheduled job finished in 640ms
+[2026-10-02 08:24:42] INFO User logged in
+[2026-10-02 08:24:56] INFO File uploaded: report_948.pdf
+[2026-10-02 08:25:14] INFO Scheduled job started
+[2026-10-02 08:25:28] INFO Session started for user472
+[2026-10-02 08:25:39] ERROR Failed to write to log file
+[2026-10-02 08:25:43] INFO File uploaded: report_317.pdf
+[2026-10-02 08:25:57] INFO Scheduled job finished in 763ms
+[2026-10-02 08:26:07] ERROR Timeout while calling payment gateway
+[2026-10-02 08:26:14] WARN Request queue size growing: 290
+[2026-10-02 08:26:27] INFO Email sent to user292@example.com
+[2026-10-02 08:26:37] WARN Cache miss rate above threshold: 66%
+[2026-10-02 08:26:38] INFO Cache refreshed
+[2026-10-02 08:26:45] WARN Disk usage at 90%
+[2026-10-02 08:27:00] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:27:07] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:27:13] INFO Cache refreshed
+[2026-10-02 08:27:30] ERROR Failed to write to log file
+[2026-10-02 08:27:33] INFO Session started for user159
+[2026-10-02 08:27:41] INFO Order #1400 created successfully
+[2026-10-02 08:27:43] INFO New user registered: user313
+[2026-10-02 08:27:46] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:28:05] INFO Configuration reloaded
+[2026-10-02 08:28:18] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:28:26] INFO Session started for user353
+[2026-10-02 08:28:27] INFO Scheduled job finished in 274ms
+[2026-10-02 08:28:33] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:28:35] ERROR Failed to send email to user470@example.com
+[2026-10-02 08:28:39] WARN High memory usage: 89%
+[2026-10-02 08:28:56] ERROR Failed to write to log file
+[2026-10-02 08:29:11] ERROR Authentication failed for user426
+[2026-10-02 08:29:29] WARN High memory usage: 90%
+[2026-10-02 08:29:44] INFO Payment processed for order #5543
+[2026-10-02 08:30:01] WARN Request queue size growing: 111
+[2026-10-02 08:30:10] WARN Slow query detected: 1670ms
+[2026-10-02 08:30:18] INFO Scheduled job started
+[2026-10-02 08:30:29] ERROR NullPointerException in OrderService
+[2026-10-02 08:30:34] INFO Payment processed for order #7275
+[2026-10-02 08:30:39] INFO User logged out
+[2026-10-02 08:30:53] WARN Retrying connection attempt 5
+[2026-10-02 08:31:08] WARN Slow query detected: 1347ms
+[2026-10-02 08:31:22] WARN Disk usage at 80%
+[2026-10-02 08:31:41] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:31:42] INFO Cache refreshed
+[2026-10-02 08:31:55] WARN Cache miss rate above threshold: 63%
+[2026-10-02 08:32:13] ERROR Failed to send email to user250@example.com
+[2026-10-02 08:32:21] INFO Scheduled job finished in 547ms
+[2026-10-02 08:32:22] WARN Retrying connection attempt 4
+[2026-10-02 08:32:28] WARN High memory usage: 94%
+[2026-10-02 08:32:46] INFO Scheduled job finished in 656ms
+[2026-10-02 08:33:05] INFO User logged out
+[2026-10-02 08:33:19] INFO New user registered: user94
+[2026-10-02 08:33:21] INFO Scheduled job finished in 385ms
+[2026-10-02 08:33:28] WARN Retrying connection attempt 3
+[2026-10-02 08:33:41] INFO Scheduled job finished in 308ms
+[2026-10-02 08:33:44] WARN Slow query detected: 2709ms
+[2026-10-02 08:33:46] INFO Payment processed for order #2124
+[2026-10-02 08:33:48] INFO Payment processed for order #4266
+[2026-10-02 08:33:49] ERROR Timeout while calling payment gateway
+[2026-10-02 08:33:57] INFO New user registered: user343
+[2026-10-02 08:34:01] ERROR Failed to send email to user239@example.com
+[2026-10-02 08:34:10] INFO Order #2876 created successfully
+[2026-10-02 08:34:16] INFO User logged out
+[2026-10-02 08:34:35] INFO Cache refreshed
+[2026-10-02 08:34:54] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:35:01] INFO Email sent to user354@example.com
+[2026-10-02 08:35:09] INFO Configuration reloaded
+[2026-10-02 08:35:19] ERROR NullPointerException in OrderService
+[2026-10-02 08:35:38] INFO Scheduled job started
+[2026-10-02 08:35:56] WARN Request queue size growing: 144
+[2026-10-02 08:35:59] WARN Request queue size growing: 137
+[2026-10-02 08:36:00] WARN Disk usage at 95%
+[2026-10-02 08:36:04] WARN Retrying connection attempt 4
+[2026-10-02 08:36:09] WARN High memory usage: 91%
+[2026-10-02 08:36:18] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:36:33] WARN Disk usage at 88%
+[2026-10-02 08:36:44] INFO User logged out
+[2026-10-02 08:36:53] WARN High memory usage: 89%
+[2026-10-02 08:37:12] ERROR Authentication failed for user173
+[2026-10-02 08:37:13] WARN Disk usage at 90%
+[2026-10-02 08:37:19] WARN High memory usage: 86%
+[2026-10-02 08:37:28] INFO Cache refreshed
+[2026-10-02 08:37:48] INFO File uploaded: report_11.pdf
+[2026-10-02 08:38:05] INFO User logged out
+[2026-10-02 08:38:13] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:38:31] INFO Configuration reloaded
+[2026-10-02 08:38:47] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:38:48] INFO Cache refreshed
+[2026-10-02 08:38:56] WARN Request queue size growing: 112
+[2026-10-02 08:39:06] ERROR Failed to write to log file
+[2026-10-02 08:39:22] ERROR Failed to write to log file
+[2026-10-02 08:39:36] ERROR Failed to write to log file
+[2026-10-02 08:39:48] WARN Retrying connection attempt 3
+[2026-10-02 08:39:57] INFO User logged out
+[2026-10-02 08:40:04] INFO User logged out
+[2026-10-02 08:40:22] INFO Payment processed for order #4545
+[2026-10-02 08:40:38] INFO Configuration reloaded
+[2026-10-02 08:40:57] WARN Cache miss rate above threshold: 49%
+[2026-10-02 08:41:01] INFO Cache refreshed
+[2026-10-02 08:41:09] INFO Order #5952 created successfully
+[2026-10-02 08:41:10] ERROR Timeout while calling payment gateway
+[2026-10-02 08:41:19] INFO User logged in
+[2026-10-02 08:41:37] INFO Configuration reloaded
+[2026-10-02 08:41:42] WARN Slow query detected: 550ms
+[2026-10-02 08:42:01] INFO New user registered: user246
+[2026-10-02 08:42:16] INFO Order #1841 created successfully
+[2026-10-02 08:42:25] WARN Slow query detected: 767ms
+[2026-10-02 08:42:38] WARN Slow query detected: 2863ms
+[2026-10-02 08:42:40] INFO Order #5978 created successfully
+[2026-10-02 08:42:43] INFO User logged out
+[2026-10-02 08:43:01] WARN Cache miss rate above threshold: 59%
+[2026-10-02 08:43:21] INFO File uploaded: report_390.pdf
+[2026-10-02 08:43:36] WARN Retrying connection attempt 5
+[2026-10-02 08:43:50] INFO Email sent to user318@example.com
+[2026-10-02 08:43:52] ERROR NullPointerException in OrderService
+[2026-10-02 08:43:59] INFO Cache refreshed
+[2026-10-02 08:44:02] INFO Payment processed for order #3847
+[2026-10-02 08:44:20] INFO Order #1043 created successfully
+[2026-10-02 08:44:34] WARN Request queue size growing: 202
+[2026-10-02 08:44:50] INFO User logged in
+[2026-10-02 08:44:58] INFO Configuration reloaded
+[2026-10-02 08:45:08] WARN Slow query detected: 1456ms
+[2026-10-02 08:45:17] ERROR Failed to send email to user218@example.com
+[2026-10-02 08:45:21] ERROR Failed to send email to user332@example.com
+[2026-10-02 08:45:26] INFO Order #2169 created successfully
+[2026-10-02 08:45:28] INFO Cache refreshed
+[2026-10-02 08:45:48] ERROR OutOfMemoryError in worker thread
+[2026-10-02 08:46:03] INFO New user registered: user353
+[2026-10-02 08:46:13] WARN Retrying connection attempt 5
+[2026-10-02 08:46:31] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:46:34] ERROR Failed to connect to database
+[2026-10-02 08:46:48] INFO Email sent to user129@example.com
+[2026-10-02 08:46:49] INFO Payment processed for order #1339
+[2026-10-02 08:46:58] ERROR Failed to connect to database
+[2026-10-02 08:47:04] WARN Cache miss rate above threshold: 60%
+[2026-10-02 08:47:19] INFO Order #8141 created successfully
+[2026-10-02 08:47:35] INFO New user registered: user179
+[2026-10-02 08:47:49] INFO Scheduled job started
+[2026-10-02 08:47:53] INFO Scheduled job started
+[2026-10-02 08:48:07] WARN Retrying connection attempt 4
+[2026-10-02 08:48:25] INFO New user registered: user46
+[2026-10-02 08:48:36] INFO Scheduled job started
+[2026-10-02 08:48:40] WARN Disk usage at 80%
+[2026-10-02 08:48:58] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:49:00] INFO File uploaded: report_371.pdf
+[2026-10-02 08:49:20] WARN Request queue size growing: 163
+[2026-10-02 08:49:22] INFO Cache refreshed
+[2026-10-02 08:49:40] INFO Cache refreshed
+[2026-10-02 08:49:55] WARN Slow query detected: 618ms
+[2026-10-02 08:50:15] INFO Configuration reloaded
+[2026-10-02 08:50:21] INFO File uploaded: report_15.pdf
+[2026-10-02 08:50:39] WARN Slow query detected: 1420ms
+[2026-10-02 08:50:43] WARN Slow query detected: 1130ms
+[2026-10-02 08:50:59] INFO File uploaded: report_723.pdf
+[2026-10-02 08:51:08] WARN Disk usage at 95%
+[2026-10-02 08:51:24] INFO New user registered: user283
+[2026-10-02 08:51:29] WARN High memory usage: 94%
+[2026-10-02 08:51:46] INFO User logged out
+[2026-10-02 08:51:55] WARN Retrying connection attempt 5
+[2026-10-02 08:52:04] INFO Cache refreshed
+[2026-10-02 08:52:14] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:52:19] WARN Cache miss rate above threshold: 55%
+[2026-10-02 08:52:31] INFO File uploaded: report_782.pdf
+[2026-10-02 08:52:49] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:53:00] INFO Configuration reloaded
+[2026-10-02 08:53:08] ERROR Authentication failed for user120
+[2026-10-02 08:53:22] INFO Scheduled job started
+[2026-10-02 08:53:38] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 08:53:43] WARN Slow query detected: 1017ms
+[2026-10-02 08:54:00] ERROR Failed to write to log file
+[2026-10-02 08:54:04] WARN Slow query detected: 2654ms
+[2026-10-02 08:54:19] INFO Configuration reloaded
+[2026-10-02 08:54:24] WARN Disk usage at 84%
+[2026-10-02 08:54:27] WARN Disk usage at 88%
+[2026-10-02 08:54:38] ERROR Authentication failed for user333
+[2026-10-02 08:54:41] INFO Session started for user440
+[2026-10-02 08:54:59] WARN Retrying connection attempt 4
+[2026-10-02 08:55:17] INFO Email sent to user36@example.com
+[2026-10-02 08:55:25] INFO Payment processed for order #2480
+[2026-10-02 08:55:39] INFO Session started for user361
+[2026-10-02 08:55:43] WARN High memory usage: 84%
+[2026-10-02 08:55:44] INFO Scheduled job started
+[2026-10-02 08:55:46] INFO Scheduled job started
+[2026-10-02 08:55:58] WARN High memory usage: 82%
+[2026-10-02 08:56:15] WARN Cache miss rate above threshold: 61%
+[2026-10-02 08:56:21] INFO Order #2293 created successfully
+[2026-10-02 08:56:41] WARN Cache miss rate above threshold: 61%
+[2026-10-02 08:56:49] WARN Cache miss rate above threshold: 44%
+[2026-10-02 08:56:57] WARN Request queue size growing: 115
+[2026-10-02 08:57:12] INFO Session started for user5
+[2026-10-02 08:57:27] INFO Session started for user280
+[2026-10-02 08:57:33] INFO New user registered: user484
+[2026-10-02 08:57:45] ERROR OutOfMemoryError in worker thread
+[2026-10-02 08:57:59] INFO New user registered: user433
+[2026-10-02 08:58:09] INFO Scheduled job finished in 544ms
+[2026-10-02 08:58:13] INFO Scheduled job finished in 635ms
+[2026-10-02 08:58:25] ERROR OutOfMemoryError in worker thread
+[2026-10-02 08:58:35] INFO Session started for user203
+[2026-10-02 08:58:44] INFO Email sent to user443@example.com
+[2026-10-02 08:58:46] ERROR Failed to parse JSON response from external API
+[2026-10-02 08:58:56] INFO Email sent to user411@example.com
+[2026-10-02 08:59:08] INFO Session started for user98
+[2026-10-02 08:59:28] INFO Session started for user387
+[2026-10-02 08:59:33] INFO Session started for user331
+[2026-10-02 08:59:35] INFO New user registered: user18
+[2026-10-02 08:59:54] INFO Configuration reloaded
+[2026-10-02 08:59:59] INFO Cache refreshed
+[2026-10-02 09:00:10] WARN High memory usage: 81%
+[2026-10-02 09:00:15] ERROR Failed to write to log file
+[2026-10-02 09:00:32] WARN Retrying connection attempt 2
+[2026-10-02 09:00:41] WARN Disk usage at 89%
+[2026-10-02 09:00:52] INFO New user registered: user494
+[2026-10-02 09:00:55] INFO Payment processed for order #7511
+[2026-10-02 09:01:13] INFO User logged out
+[2026-10-02 09:01:26] INFO Cache refreshed
+[2026-10-02 09:01:44] INFO New user registered: user189
+[2026-10-02 09:01:53] ERROR Authentication failed for user422
+[2026-10-02 09:02:05] INFO Session started for user120
+[2026-10-02 09:02:21] INFO Email sent to user453@example.com
+[2026-10-02 09:02:39] INFO Email sent to user114@example.com
+[2026-10-02 09:02:42] WARN Request queue size growing: 127
+[2026-10-02 09:02:56] INFO Order #1742 created successfully
+[2026-10-02 09:02:58] INFO New user registered: user60
+[2026-10-02 09:03:02] INFO File uploaded: report_139.pdf
+[2026-10-02 09:03:15] WARN Retrying connection attempt 5
+[2026-10-02 09:03:29] ERROR Timeout while calling payment gateway
+[2026-10-02 09:03:43] INFO New user registered: user316
+[2026-10-02 09:03:57] INFO User logged in
+[2026-10-02 09:04:09] INFO New user registered: user228
+[2026-10-02 09:04:17] INFO User logged out
+[2026-10-02 09:04:29] ERROR Failed to write to log file
+[2026-10-02 09:04:31] WARN Retrying connection attempt 2
+[2026-10-02 09:04:35] WARN Slow query detected: 1368ms
+[2026-10-02 09:04:55] INFO User logged in
+[2026-10-02 09:05:06] INFO Order #4362 created successfully
+[2026-10-02 09:05:09] ERROR Failed to send email to user301@example.com
+[2026-10-02 09:05:16] INFO Scheduled job started
+[2026-10-02 09:05:21] ERROR Failed to connect to database
+[2026-10-02 09:05:30] INFO Order #9850 created successfully
+[2026-10-02 09:05:39] INFO User logged out
+[2026-10-02 09:05:40] INFO User logged in
+[2026-10-02 09:05:52] INFO Email sent to user166@example.com
+[2026-10-02 09:05:53] INFO Cache refreshed
+[2026-10-02 09:05:55] INFO Configuration reloaded
+[2026-10-02 09:06:09] WARN Slow query detected: 760ms
+[2026-10-02 09:06:25] WARN Disk usage at 91%
+[2026-10-02 09:06:42] ERROR NullPointerException in OrderService
+[2026-10-02 09:06:57] WARN High memory usage: 94%
+[2026-10-02 09:06:59] WARN Retrying connection attempt 4
+[2026-10-02 09:07:00] INFO New user registered: user434
+[2026-10-02 09:07:13] WARN Request queue size growing: 77
+[2026-10-02 09:07:29] WARN Slow query detected: 830ms
+[2026-10-02 09:07:40] ERROR Timeout while calling payment gateway
+[2026-10-02 09:07:43] INFO Cache refreshed
+[2026-10-02 09:08:03] ERROR Failed to write to log file
+[2026-10-02 09:08:16] ERROR OutOfMemoryError in worker thread
+[2026-10-02 09:08:31] WARN Cache miss rate above threshold: 53%
+[2026-10-02 09:08:35] INFO Session started for user334
+[2026-10-02 09:08:53] INFO Scheduled job finished in 512ms
+[2026-10-02 09:09:01] WARN Retrying connection attempt 4
+[2026-10-02 09:09:14] WARN Request queue size growing: 74
+[2026-10-02 09:09:25] WARN Retrying connection attempt 3
+[2026-10-02 09:09:37] INFO Session started for user473
+[2026-10-02 09:09:53] INFO User logged out
+[2026-10-02 09:09:56] INFO Scheduled job finished in 148ms
+[2026-10-02 09:10:08] INFO File uploaded: report_62.pdf
+[2026-10-02 09:10:27] ERROR Failed to write to log file
+[2026-10-02 09:10:31] WARN Retrying connection attempt 4
+[2026-10-02 09:10:33] INFO Email sent to user160@example.com
+[2026-10-02 09:10:45] INFO Email sent to user260@example.com
+[2026-10-02 09:10:52] INFO Session started for user247
+[2026-10-02 09:11:00] INFO Scheduled job started
+[2026-10-02 09:11:18] INFO User logged out
+[2026-10-02 09:11:27] ERROR Failed to send email to user414@example.com
+[2026-10-02 09:11:41] ERROR Failed to connect to database
+[2026-10-02 09:12:01] INFO User logged in
+[2026-10-02 09:12:07] INFO Configuration reloaded
+[2026-10-02 09:12:17] INFO Scheduled job started
+[2026-10-02 09:12:18] INFO Order #7566 created successfully
+[2026-10-02 09:12:21] INFO Configuration reloaded
+[2026-10-02 09:12:22] INFO Configuration reloaded
+[2026-10-02 09:12:39] INFO Scheduled job finished in 479ms
+[2026-10-02 09:12:54] INFO Order #7062 created successfully
+[2026-10-02 09:13:04] INFO Email sent to user306@example.com
+[2026-10-02 09:13:07] INFO Order #3579 created successfully
+[2026-10-02 09:13:27] INFO Session started for user42
+[2026-10-02 09:13:36] WARN Request queue size growing: 158
+[2026-10-02 09:13:52] ERROR Failed to parse JSON response from external API
+[2026-10-02 09:14:06] INFO Payment processed for order #9394
+[2026-10-02 09:14:10] INFO Scheduled job finished in 163ms
+[2026-10-02 09:14:20] ERROR Failed to parse JSON response from external API
+[2026-10-02 09:14:37] INFO User logged in
+[2026-10-02 09:14:45] WARN Cache miss rate above threshold: 41%
+[2026-10-02 09:14:46] INFO Cache refreshed
+[2026-10-02 09:14:53] INFO Cache refreshed
+[2026-10-02 09:15:03] INFO User logged out
+[2026-10-02 09:15:04] WARN Request queue size growing: 160
+[2026-10-02 09:15:10] INFO Scheduled job finished in 595ms
+[2026-10-02 09:15:18] WARN Cache miss rate above threshold: 66%
+[2026-10-02 09:15:30] INFO Scheduled job finished in 809ms
+[2026-10-02 09:15:32] WARN Slow query detected: 2383ms
+[2026-10-02 09:15:35] INFO Email sent to user220@example.com
+[2026-10-02 09:15:54] WARN Request queue size growing: 213
+[2026-10-02 09:16:08] INFO User logged out
+[2026-10-02 09:16:21] INFO Scheduled job started
+[2026-10-02 09:16:27] ERROR Failed to parse JSON response from external API
+[2026-10-02 09:16:39] INFO Scheduled job finished in 158ms
+[2026-10-02 09:16:47] WARN Cache miss rate above threshold: 52%
+[2026-10-02 09:17:04] INFO Scheduled job finished in 367ms
+[2026-10-02 09:17:15] INFO Scheduled job started
+[2026-10-02 09:17:21] INFO File uploaded: report_649.pdf
+[2026-10-02 09:17:25] WARN Cache miss rate above threshold: 46%
+[2026-10-02 09:17:37] INFO Configuration reloaded
+[2026-10-02 09:17:42] INFO User logged out
+[2026-10-02 09:17:47] INFO Payment processed for order #3842
+[2026-10-02 09:18:07] INFO Session started for user39
+[2026-10-02 09:18:13] WARN Deprecated API endpoint called: /api/v1/users
+[2026-10-02 09:18:32] ERROR Failed to parse JSON response from external API
+[2026-10-02 09:18:51] ERROR Failed to write to log file
+[2026-10-02 09:19:02] INFO New user registered: user35
+[2026-10-02 09:19:18] WARN Request queue size growing: 127
+[2026-10-02 09:19:27] ERROR Failed to connect to database
+[2026-10-02 09:19:39] WARN Slow query detected: 1771ms
+[2026-10-02 09:19:54] WARN Slow query detected: 733ms
+[2026-10-02 09:20:06] INFO User logged out
+[2026-10-02 09:20:09] ERROR Authentication failed for user237
+[2026-10-02 09:20:28] ERROR Failed to connect to database
+[2026-10-02 09:20:43] ERROR Failed to send email to user165@example.com
+[2026-10-02 09:21:03] WARN Cache miss rate above threshold: 44%
+[2026-10-02 09:21:05] WARN Slow query detected: 1906ms
+[2026-10-02 09:21:08] WARN Request queue size growing: 94
+[2026-10-02 09:21:10] INFO Configuration reloaded
+[2026-10-02 09:21:25] WARN Cache miss rate above threshold: 56%
+[2026-10-02 09:21:45] INFO Scheduled job started
+[2026-10-02 09:21:57] INFO Scheduled job finished in 468ms
+[2026-10-02 09:22:08] ERROR Failed to connect to database
+[2026-10-02 09:22:19] INFO Scheduled job started
+[2026-10-02 09:22:23] ERROR Authentication failed for user146
+[2026-10-02 09:22:32] ERROR Timeout while calling payment gateway
+[2026-10-02 09:22:43] INFO Email sent to user340@example.com
+[2026-10-02 09:22:48] INFO Cache refreshed
+[2026-10-02 09:23:01] INFO Email sent to user363@example.com
+[2026-10-02 09:23:04] INFO File uploaded: report_386.pdf
+[2026-10-02 09:23:15] INFO Session started for user360
+[2026-10-02 09:23:32] INFO Session started for user344
+[2026-10-02 09:23:46] WARN Retrying connection attempt 1
+[2026-10-02 09:23:58] INFO Order #4509 created successfully
+[2026-10-02 09:24:09] WARN High memory usage: 82%
+[2026-10-02 09:24:14] INFO User logged out
+[2026-10-02 09:24:24] INFO File uploaded: report_790.pdf
+[2026-10-02 09:24:42] WARN Slow query detected: 1879ms
+[2026-10-02 09:25:02] INFO Email sent to user193@example.com
+[2026-10-02 09:25:07] INFO Order #3712 created successfully
+[2026-10-02 09:25:22] INFO Scheduled job finished in 423ms
+[2026-10-02 09:25:30] WARN Cache miss rate above threshold: 49%
+[2026-10-02 09:25:45] INFO File uploaded: report_245.pdf
+[2026-10-02 09:25:55] WARN Disk usage at 86%
+[2026-10-02 09:26:07] ERROR Failed to parse JSON response from external API
+[2026-10-02 09:26:22] INFO Scheduled job finished in 564ms
+[2026-10-02 09:26:39] WARN High memory usage: 81%
+[2026-10-02 09:26:59] INFO Cache refreshed
+[2026-10-02 09:27:01] WARN Disk usage at 91%
+[2026-10-02 09:27:19] INFO Configuration reloaded
